@@ -1,6 +1,4 @@
-<h1 align="center">My wonderful world of macOS 💻 </h1>
-
-<h1 align="center"><a href="https://github.com/learn-anything/macos-apps"> Applications </a></h1>
+<h1 align="center">Applications</h1>
 
 #### 1. [Alfred](https://www.alfredapp.com/) 
 
@@ -52,4 +50,8 @@
 
 #### 25. [Magnet](http://magnet.crowdcafe.com/)
 
-#### 26. Microsoft Office 2016
+#### 26. [Temps](https://itunes.apple.com/de/app/temps-wetter-zeit-netatmo/id489930332?mt=12)
+
+#### 27. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+
+#### 28. Microsoft Office 2016
