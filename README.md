@@ -135,7 +135,7 @@
 - alerts you about outgoing network connections and prevents or permits them to connect to attached networks
 - price: 45€ (single user)
 
-#### 28. Microsoft Office 2016
+#### 28. [Microsoft Office 2016](https://products.office.com/de-de/home?WT.mc_id=oan_winnav_office)
 
 - Word, Excel and PowerPoint are must-haves
 - price: 69,00€ per year (single user)
