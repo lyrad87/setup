@@ -1,4 +1,5 @@
-<h2 align="center">Applications</h2>
+<h1 align="center">Applications</h1>
+
 #### 1. [Alfred](https://www.alfredapp.com/)
 #### 2. [1Password](https://1password.com) 
 #### 3. [Spotify](https://www.spotify.com/us/) 
