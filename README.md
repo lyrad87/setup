@@ -4,7 +4,7 @@
 
 1. [Alfred](https://www.alfredapp.com/)
 > * a keyboard-driven productivity application, helping you launch apps and search your local computer as well as the web
-* **free**, Powerpack recommended
+> * **free**, Powerpack recommended
 
 2. [1Password](https://1password.com) - shareware
 >  a password manager
