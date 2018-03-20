@@ -18,7 +18,7 @@
 14. [Discord](https://discordapp.com/)
 15. [BetterZip](https://macitbetter.com/)
 16. [Magnet](http://magnet.crowdcafe.com/)
-17. [Microsoft Office 2016](https://products.office.com/de-de/home?WT.mc_id=oan_winnav_office)
+17. [Microsoft Office 2016](https://macadmins.software/)
 
 ***
 
