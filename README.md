@@ -1,16 +1,14 @@
 <h2 align="center">Applications</h2>
 
-<h5>Must-Haves</h5>
-
-1. [Alfred](https://www.alfredapp.com/)
-2. [1Password](https://1password.com)
-3. [Spotify](https://www.spotify.com/us/)
-4. [Fantastical](https://flexibits.com/fantastical) 
-5. [Bartender](https://www.macbartender.com/) 
-6. [Unclutter](http://unclutterapp.com/) 
-7. [iStat Menus](https://bjango.com/mac/istatmenus/) 
-8. [ChatMate for WhatsApp](https://de.chatmate.io/)
-9. [Boom 3D](http://www.globaldelight.com/boom3d/index.php)
+01. [Alfred](https://www.alfredapp.com/)
+02. [1Password](https://1password.com)
+03. [Spotify](https://www.spotify.com/)
+04. [Fantastical](https://flexibits.com/fantastical) 
+05. [Bartender](https://www.macbartender.com/) 
+06. [Unclutter](http://unclutterapp.com/) 
+07. [iStat Menus](https://bjango.com/mac/istatmenus/) 
+08. [ChatMate for WhatsApp](https://de.chatmate.io/)
+09. [Boom 3D](http://www.globaldelight.com/boom3d/index.php)
 10. [Dropbox](https://www.dropbox.com/)
 11. [Skype](https://www.skype.com/)
 12. [IINA](https://lhc70000.github.io/iina/)
@@ -19,19 +17,13 @@
 15. [BetterZip](https://macitbetter.com/)
 16. [Magnet](http://magnet.crowdcafe.com/)
 17. [Microsoft Office 2016](https://macadmins.software/)
-
-***
-
-<h5>Optionals</h5>
-
-1. [Pixelmator](http://www.pixelmator.com/mac/) 
-2. [DaisyDisk](https://daisydiskapp.com) 
-3. [ImageOptim](https://imageoptim.com/mac) 
-4. [Hazel](https://www.noodlesoft.com)
-5. [Leaf](https://itunes.apple.com/app/leaf/id576338668?mt=12)
-6. [Steam](http://store.steampowered.com/)
-7. [Temps](https://itunes.apple.com/de/app/temps-wetter-zeit-netatmo/id489930332?mt=12)
-8. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-9. [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12)
-10. [Cyberduck](https://cyberduck.io/)
-11. [Übersicht](http://tracesof.net/uebersicht/)
+18. [Pixelmator](http://www.pixelmator.com/mac/) 
+19. [ImageOptim](https://imageoptim.com/mac) 
+20. [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+21. [Amphetamine](https://itunes.apple.com/de/app/amphetamine/id937984704?mt=12)
+22. [Cyberduck](https://cyberduck.io/)
+23. [Rocket](https://matthewpalmer.net/rocket/)
+24. [Sip](https://sipapp.io/)
+25. [HandBrake](https://handbrake.fr/)
+26. [GitHub Desktop](https://desktop.github.com/)
+27. [AppCleaner](https://freemacsoft.net/appcleaner/)
