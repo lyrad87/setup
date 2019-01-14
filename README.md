@@ -27,3 +27,4 @@
 25. [Spotify](https://www.spotify.com/)
 26. [Sublime Text](https://www.sublimetext.com/)
 27. [Unclutter](http://unclutterapp.com/)
+28. [HazeOver](https://hazeover.com/)
