@@ -13,7 +13,7 @@
 11. [Dropbox](https://www.dropbox.com/)
 12. [Fantastical](https://flexibits.com/fantastical)
 13. [GitHub Desktop](https://desktop.github.com/)
-14. [HandBrake](https://handbrake.fr/)
+14. [HazeOver](https://hazeover.com/)
 15. [IINA](https://lhc70000.github.io/iina/)
 16. [ImageOptim](https://imageoptim.com/mac) 
 17. [iStat Menus](https://bjango.com/mac/istatmenus/)
@@ -27,4 +27,3 @@
 25. [Spotify](https://www.spotify.com/)
 26. [Sublime Text](https://www.sublimetext.com/)
 27. [Unclutter](http://unclutterapp.com/)
-28. [HazeOver](https://hazeover.com/)
