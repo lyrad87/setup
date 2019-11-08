@@ -22,7 +22,7 @@
 20. [Microsoft Office 2016](https://macadmins.software/)
 21. [Pixelmator](http://www.pixelmator.com/mac/)
 22. [Rocket](https://matthewpalmer.net/rocket/)
-23. [Sip](https://sipapp.io/)
+23. [ColorSlurp](http://colorslurp.com/)
 24. [Skype](https://www.skype.com/)
 25. [Spotify](https://www.spotify.com/)
 26. [Sublime Text](https://www.sublimetext.com/)
